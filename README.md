@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 🌋 I'm currently improving on the design of MATLAB classes, Simulink models, and dSpace applications.
 - 👯 I’m looking to collaborate on designing a drone.
 - ☀️ I'm interested in Controls Engineering in the Aerospace Field.
-
